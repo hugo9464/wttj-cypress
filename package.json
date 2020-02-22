@@ -1,0 +1,23 @@
+{
+  "name": "wttj-cypress-tests",
+  "version": "1.0.0",
+  "description": "Cypress technical test for wttj",
+  "main": "index.js",
+  "scripts": {
+    	"test": "echo \"Error: no test specified\" && exit 1",
+	"cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo9464/wttj-cypress.git"
+  },
+  "author": "Hugo Faye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugo9464/wttj-cypress/issues"
+  },
+  "homepage": "https://github.com/hugo9464/wttj-cypress#readme",
+  "devDependencies": {
+    "cypress": "^4.0.2"
+  }
+}
